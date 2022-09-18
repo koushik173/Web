@@ -1,0 +1,12 @@
+.p{
+    border: 5px solid   rgb(163, 40, 219);
+    border-radius: 30px;
+    margin: 1%;
+    padding: 10px 30px;
+    width: 20%;
+    height: 200;
+    display: inline-block;
+}
+h3{
+    text-align: center;
+}
